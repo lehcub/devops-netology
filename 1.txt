@@ -2,7 +2,8 @@ asdf
 line 3
 kaaaaat
 <<<<<<< HEAD
-alexey 
+alexey
 =======
 strokaal
 >>>>>>> 704bd947466419e2c2bb03ba506efb012804d7c0
+fdssdffasdsfdfsfafsd---
